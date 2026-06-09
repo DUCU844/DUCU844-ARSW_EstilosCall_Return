@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/DUCU844-ARSW_EstilosCall_Return.iml" filepath="$PROJECT_DIR$/.idea/DUCU844-ARSW_EstilosCall_Return.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sockets/Sockets.iml" filepath="$PROJECT_DIR$/Sockets/Sockets.iml" />
       <module fileurl="file://$PROJECT_DIR$/URL/URL.iml" filepath="$PROJECT_DIR$/URL/URL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Datagramas/Datagramas.iml" filepath="$PROJECT_DIR$/Datagramas/Datagramas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RMI/RMI.iml" filepath="$PROJECT_DIR$/RMI/RMI.iml" />
     </modules>
   </component>
 </project>
