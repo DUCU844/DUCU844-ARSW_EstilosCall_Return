@@ -315,14 +315,14 @@ Remote port to connect to: 5000
 
 | # | Section    | Exercise                         | File(s)                                  | Status   |
 |---|------------|----------------------------------|------------------------------------------|----------|
-| 1 | URLs       | Print 8 URL parts                | `URL/src/createURL.java`                 | Completo |
-| 2 | URLs       | Browser → resultado.html         | `URL/src/ResultadoHTML.java`             | Completo |
-| 3 | Sockets    | Square server                    | `Sockets/src/SquareServer.java` + Client | Completo |
-| 4 | Sockets    | Trig server (sin/cos/tan)        | `Sockets/src/TrigServer.java`            | Completo |
-| 5 | Sockets    | Simple web server (1 request)    | `Sockets/src/HttpServer.java`            | Completo |
-| 6 | Sockets    | Multi-request web server + files | `Sockets/src/MultiHttpServer.java`       | Completo |
-| 7 | Datagramas | Time server + resilient client   | `Datagramas/src/DatagramTime*.java`      | Completo |
-| 8 | RMI        | Two-way chat                     | `RMI/src/rmiexample/Chat*.java`          | Completo |
+| 1 | URLs       | Print 8 URL parts                | `URL/src/createURL.java`                 | Complete |
+| 2 | URLs       | Browser → resultado.html         | `URL/src/ResultadoHTML.java`             | Complete |
+| 3 | Sockets    | Square server                    | `Sockets/src/SquareServer.java` + Client | Complete |
+| 4 | Sockets    | Trig server (sin/cos/tan)        | `Sockets/src/TrigServer.java`            | Complete |
+| 5 | Sockets    | Simple web server (1 request)    | `Sockets/src/HttpServer.java`            | Complete |
+| 6 | Sockets    | Multi-request web server + files | `Sockets/src/MultiHttpServer.java`       | Complete |
+| 7 | Datagramas | Time server + resilient client   | `Datagramas/src/DatagramTime*.java`      | Complete |
+| 8 | RMI        | Two-way chat                     | `RMI/src/rmiexample/Chat*.java`          | Complete |
 
 ---
 
